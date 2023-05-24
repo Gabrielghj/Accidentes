@@ -1,4 +1,5 @@
 Accidentes aéreos
+
 Introducción:
 
 El transporte aéreo se ha convertido en un componente fundamental de la vida moderna, conectando de manera rápida y eficiente a personas y mercancías en todo el mundo. Con el crecimiento constante del tráfico aéreo a nivel mundial, se han realizado grandes esfuerzos para garantizar la seguridad de los vuelos y minimizar los riesgos asociados. En este informe, se examinará la evolución de los accidentes aéreos en relación con el aumento del tráfico mundial durante un periodo de 15 años (2.005 a 2.019), así como la disminución tanto en la frecuencia de los accidentes como en el número de víctimas mortales a lo largo de los años, considerando también el papel de los fabricantes de aeronaves en la mejora de la seguridad.
